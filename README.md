@@ -1,3 +1,3 @@
 # CAT_Project_TatyannaWanjiru
-_**Contains my portfolio details**._
+shows generally my background details. 
 
